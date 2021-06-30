@@ -1,2 +1,2 @@
-# Math-Ew
-Mathew - Mathematics helper for humans
+# MathEw 🧮
+A Mathematics helper for humans
