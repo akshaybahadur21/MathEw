@@ -10,6 +10,7 @@ You can install Conda for python which resolves all the dependencies for machine
 `pip install -r requirements.txt`
 
 ## Description 🦕
+MathEw - A Mathematics helper for humans.
 
 ## Mathematical Operations 🧮
 
@@ -18,6 +19,9 @@ You can install Conda for python which resolves all the dependencies for machine
 - Subtraction ➖
 - Divide ➗
 - Multiply ✖️
+
+## MathEw Model
+[Google colab](https://colab.research.google.com/drive/1yZld2GxGE317BqQH3f2Zv_29wX-Q2mZa?usp=sharing)
 
 ## Python  Implementation 👨‍🔬
 
