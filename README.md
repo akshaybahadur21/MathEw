@@ -9,7 +9,7 @@ You can install Conda for python which resolves all the dependencies for machine
 
 `pip install -r requirements.txt`
 
-## Descriptio 🦕
+## Description 🦕
 
 ## Mathematical Operations 🧮
 
