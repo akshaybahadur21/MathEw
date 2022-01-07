@@ -43,7 +43,7 @@ python3 MathEw.py -train <True/False>
 ```
 
 ## Results 📊
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/qd.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/mathew.gif">
 
 ## References 🔱
  
